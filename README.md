@@ -1,0 +1,1 @@
+Kubernetes application for learning purposes.
